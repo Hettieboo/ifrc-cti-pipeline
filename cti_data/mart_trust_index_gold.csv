@@ -1,0 +1,129 @@
+summary_id,survey_id,geo_id,country_code,country_name,region,ifrc_zone,emergency_context,conflict_affected,survey_date,quarter,year,overall_trust_score,competence_score,integrity_score,benevolence_score,transparency_score,sample_size,alert_flag,alert_reason
+M00001,S0001,G0003,KE,Kenya,Kisumu,Africa,False,False,2024-01-21,1,2024,64.9,64.1,65.9,66.7,62.7,23,False,
+M00002,S0001,G0004,KE,Kenya,Nakuru,Africa,False,False,2024-01-21,1,2024,62.8,65.6,62.6,64.2,58.9,31,False,
+M00003,S0001,G0002,KE,Kenya,Mombasa,Africa,False,False,2024-01-21,1,2024,62.4,60.6,66.7,56.9,65.6,30,False,
+M00004,S0001,G0001,KE,Kenya,Nairobi,Africa,False,False,2024-01-21,1,2024,63.2,60.9,67.0,65.9,59.1,23,False,
+M00005,S0002,G0002,KE,Kenya,Mombasa,Africa,False,False,2024-04-23,2,2024,62.3,62.3,60.8,62.3,64.0,40,False,
+M00006,S0002,G0003,KE,Kenya,Kisumu,Africa,False,False,2024-04-23,2,2024,62.8,62.8,64.5,62.8,61.0,50,False,
+M00007,S0002,G0004,KE,Kenya,Nakuru,Africa,False,False,2024-04-23,2,2024,61.7,60.1,62.6,64.4,59.8,33,False,
+M00008,S0002,G0001,KE,Kenya,Nairobi,Africa,False,False,2024-04-23,2,2024,63.1,61.8,63.8,62.9,64.1,29,False,
+M00009,S0003,G0004,KE,Kenya,Nakuru,Africa,False,False,2024-07-06,3,2024,61.9,63.5,60.8,62.5,61.0,34,False,
+M00010,S0003,G0003,KE,Kenya,Kisumu,Africa,False,False,2024-07-06,3,2024,59.7,56.0,62.3,59.9,60.7,21,False,
+M00011,S0003,G0002,KE,Kenya,Mombasa,Africa,False,False,2024-07-06,3,2024,62.4,65.9,58.9,63.3,61.7,32,False,
+M00012,S0003,G0001,KE,Kenya,Nairobi,Africa,False,False,2024-07-06,3,2024,62.0,60.4,63.5,61.5,62.8,32,False,
+M00013,S0004,G0001,KE,Kenya,Nairobi,Africa,False,False,2024-10-18,4,2024,62.6,61.0,64.8,64.0,60.5,31,False,
+M00014,S0004,G0002,KE,Kenya,Mombasa,Africa,False,False,2024-10-18,4,2024,61.3,63.3,62.0,59.0,61.1,27,False,
+M00015,S0004,G0004,KE,Kenya,Nakuru,Africa,False,False,2024-10-18,4,2024,62.5,64.9,61.8,62.7,60.5,19,False,
+M00016,S0004,G0003,KE,Kenya,Kisumu,Africa,False,False,2024-10-18,4,2024,61.4,58.0,63.3,63.3,61.0,22,False,
+M00017,S0005,G0008,NG,Nigeria,Kaduna,Africa,True,True,2024-01-14,1,2024,41.0,45.7,36.2,46.3,35.9,43,True,Low trust score — review required
+M00018,S0005,G0006,NG,Nigeria,Kano,Africa,True,True,2024-01-14,1,2024,40.0,46.6,33.0,46.0,34.4,56,True,Low trust score — review required
+M00019,S0005,G0007,NG,Nigeria,Abuja,Africa,True,True,2024-01-14,1,2024,38.7,42.6,31.8,45.5,34.9,37,True,Low trust score — review required
+M00020,S0005,G0005,NG,Nigeria,Lagos,Africa,True,True,2024-01-14,1,2024,39.0,47.3,34.8,41.3,32.4,47,True,Low trust score — review required
+M00021,S0006,G0006,NG,Nigeria,Kano,Africa,True,True,2024-04-02,2,2024,41.1,45.7,37.2,45.5,36.0,41,True,Low trust score — review required
+M00022,S0006,G0005,NG,Nigeria,Lagos,Africa,True,True,2024-04-02,2,2024,39.8,43.0,37.1,45.3,33.9,44,True,Low trust score — review required
+M00023,S0006,G0007,NG,Nigeria,Abuja,Africa,True,True,2024-04-02,2,2024,42.1,48.7,37.6,49.2,32.8,31,True,Low trust score — review required
+M00024,S0006,G0008,NG,Nigeria,Kaduna,Africa,True,True,2024-04-02,2,2024,39.0,46.5,34.5,43.1,31.9,36,True,Low trust score — review required
+M00025,S0007,G0006,NG,Nigeria,Kano,Africa,True,True,2024-07-15,3,2024,39.4,43.8,35.3,44.6,33.7,42,True,Low trust score — review required
+M00026,S0007,G0007,NG,Nigeria,Abuja,Africa,True,True,2024-07-15,3,2024,39.9,42.6,36.4,45.7,34.9,43,True,Low trust score — review required
+M00027,S0007,G0008,NG,Nigeria,Kaduna,Africa,True,True,2024-07-15,3,2024,40.4,44.1,35.2,46.3,36.0,54,True,Low trust score — review required
+M00028,S0007,G0005,NG,Nigeria,Lagos,Africa,True,True,2024-07-15,3,2024,38.6,45.7,34.1,42.2,32.6,33,True,Low trust score — review required
+M00029,S0008,G0005,NG,Nigeria,Lagos,Africa,True,True,2024-10-03,4,2024,41.7,43.7,36.3,49.7,37.0,25,True,Low trust score — review required
+M00030,S0008,G0007,NG,Nigeria,Abuja,Africa,True,True,2024-10-03,4,2024,40.8,48.5,34.1,45.6,35.0,34,True,Low trust score — review required
+M00031,S0008,G0008,NG,Nigeria,Kaduna,Africa,True,True,2024-10-03,4,2024,39.9,43.8,35.5,46.0,34.3,27,True,Low trust score — review required
+M00032,S0008,G0006,NG,Nigeria,Kano,Africa,True,True,2024-10-03,4,2024,40.4,48.1,35.9,42.6,34.9,26,True,Low trust score — review required
+M00033,S0009,G0009,PH,Philippines,Metro Manila,Asia-Pacific,True,False,2024-01-15,1,2024,64.1,63.3,62.0,65.9,65.4,32,False,
+M00034,S0009,G0010,PH,Philippines,Cebu,Asia-Pacific,True,False,2024-01-15,1,2024,62.2,63.1,62.6,62.1,61.1,33,False,
+M00035,S0009,G0011,PH,Philippines,Davao,Asia-Pacific,True,False,2024-01-15,1,2024,63.1,64.7,62.2,61.5,63.9,39,False,
+M00036,S0009,G0012,PH,Philippines,Mindanao,Asia-Pacific,True,False,2024-01-15,1,2024,64.0,64.4,65.3,67.2,59.2,30,False,
+M00037,S0010,G0010,PH,Philippines,Cebu,Asia-Pacific,True,False,2024-04-24,2,2024,63.8,63.3,62.3,64.3,65.0,25,False,
+M00038,S0010,G0011,PH,Philippines,Davao,Asia-Pacific,True,False,2024-04-24,2,2024,63.2,63.2,64.9,60.5,64.3,38,False,
+M00039,S0010,G0012,PH,Philippines,Mindanao,Asia-Pacific,True,False,2024-04-24,2,2024,60.8,58.6,62.5,61.4,60.8,30,False,
+M00040,S0010,G0009,PH,Philippines,Metro Manila,Asia-Pacific,True,False,2024-04-24,2,2024,62.5,64.0,62.4,64.0,59.7,37,False,
+M00041,S0011,G0011,PH,Philippines,Davao,Asia-Pacific,True,False,2024-07-09,3,2024,63.1,62.8,63.0,61.4,65.0,41,False,
+M00042,S0011,G0012,PH,Philippines,Mindanao,Asia-Pacific,True,False,2024-07-09,3,2024,64.2,64.0,65.0,65.0,62.9,40,False,
+M00043,S0011,G0009,PH,Philippines,Metro Manila,Asia-Pacific,True,False,2024-07-09,3,2024,62.6,63.3,64.5,60.5,62.3,42,False,
+M00044,S0011,G0010,PH,Philippines,Cebu,Asia-Pacific,True,False,2024-07-09,3,2024,62.8,63.9,62.2,64.1,61.1,52,False,
+M00045,S0012,G0010,PH,Philippines,Cebu,Asia-Pacific,True,False,2024-10-03,4,2024,62.4,62.9,61.4,60.0,65.4,46,False,
+M00046,S0012,G0012,PH,Philippines,Mindanao,Asia-Pacific,True,False,2024-10-03,4,2024,63.4,63.8,65.6,61.2,63.1,40,False,
+M00047,S0012,G0009,PH,Philippines,Metro Manila,Asia-Pacific,True,False,2024-10-03,4,2024,61.0,61.3,61.3,58.8,62.5,36,False,
+M00048,S0012,G0011,PH,Philippines,Davao,Asia-Pacific,True,False,2024-10-03,4,2024,62.2,60.3,64.3,62.6,61.5,39,False,
+M00049,S0013,G0014,CO,Colombia,Medellin,Americas,False,True,2024-01-03,1,2024,56.7,63.4,50.2,61.7,51.5,44,False,
+M00050,S0013,G0016,CO,Colombia,Cartagena,Americas,False,True,2024-01-03,1,2024,59.0,65.1,53.5,61.8,55.6,43,False,
+M00051,S0013,G0015,CO,Colombia,Cali,Americas,False,True,2024-01-03,1,2024,55.9,60.7,51.6,62.7,48.4,42,False,
+M00052,S0013,G0013,CO,Colombia,Bogota,Americas,False,True,2024-01-03,1,2024,57.3,62.9,49.8,63.6,53.0,44,False,
+M00053,S0014,G0013,CO,Colombia,Bogota,Americas,False,True,2024-04-11,2,2024,55.7,60.3,49.8,61.8,51.0,34,False,
+M00054,S0014,G0016,CO,Colombia,Cartagena,Americas,False,True,2024-04-11,2,2024,58.0,64.1,53.7,60.6,53.4,29,False,
+M00055,S0014,G0015,CO,Colombia,Cali,Americas,False,True,2024-04-11,2,2024,57.5,61.1,54.4,61.1,53.3,15,False,
+M00056,S0014,G0014,CO,Colombia,Medellin,Americas,False,True,2024-04-11,2,2024,58.6,65.1,54.3,60.2,54.8,31,False,
+M00057,S0015,G0013,CO,Colombia,Bogota,Americas,False,True,2024-07-07,3,2024,54.6,55.9,51.4,59.3,51.8,41,False,
+M00058,S0015,G0015,CO,Colombia,Cali,Americas,False,True,2024-07-07,3,2024,56.6,64.7,52.5,59.6,49.5,34,False,
+M00059,S0015,G0016,CO,Colombia,Cartagena,Americas,False,True,2024-07-07,3,2024,57.4,62.6,50.6,65.5,50.9,29,False,
+M00060,S0015,G0014,CO,Colombia,Medellin,Americas,False,True,2024-07-07,3,2024,57.8,64.7,52.0,63.2,51.5,34,False,
+M00061,S0016,G0013,CO,Colombia,Bogota,Americas,False,True,2024-10-14,4,2024,57.8,62.5,50.7,65.5,52.3,36,False,
+M00062,S0016,G0015,CO,Colombia,Cali,Americas,False,True,2024-10-14,4,2024,59.5,65.1,53.6,64.2,55.2,37,False,
+M00063,S0016,G0014,CO,Colombia,Medellin,Americas,False,True,2024-10-14,4,2024,58.8,60.5,55.1,64.8,54.8,31,False,
+M00064,S0016,G0016,CO,Colombia,Cartagena,Americas,False,True,2024-10-14,4,2024,57.9,65.3,53.0,61.3,51.9,31,False,
+M00065,S0017,G0020,UA,Ukraine,Odessa,Europe,True,True,2024-01-03,1,2024,38.9,39.2,34.1,44.4,38.0,34,True,Low trust score — review required
+M00066,S0017,G0017,UA,Ukraine,Kyiv,Europe,True,True,2024-01-03,1,2024,40.3,44.2,37.3,47.0,32.6,36,True,Low trust score — review required
+M00067,S0017,G0018,UA,Ukraine,Kharkiv,Europe,True,True,2024-01-03,1,2024,40.1,42.6,35.0,45.8,36.8,34,True,Low trust score — review required
+M00068,S0017,G0019,UA,Ukraine,Lviv,Europe,True,True,2024-01-03,1,2024,36.9,42.0,29.5,45.1,31.1,22,True,Low trust score — review required
+M00069,S0018,G0019,UA,Ukraine,Lviv,Europe,True,True,2024-04-28,2,2024,41.0,48.1,37.3,45.1,33.3,27,True,Low trust score — review required
+M00070,S0018,G0017,UA,Ukraine,Kyiv,Europe,True,True,2024-04-28,2,2024,40.4,44.4,37.3,45.8,34.3,34,True,Low trust score — review required
+M00071,S0018,G0018,UA,Ukraine,Kharkiv,Europe,True,True,2024-04-28,2,2024,38.7,41.0,33.6,44.4,35.8,27,True,Low trust score — review required
+M00072,S0018,G0020,UA,Ukraine,Odessa,Europe,True,True,2024-04-28,2,2024,37.9,44.7,34.6,41.7,30.8,33,True,Low trust score — review required
+M00073,S0019,G0020,UA,Ukraine,Odessa,Europe,True,True,2024-07-05,3,2024,40.0,44.4,34.7,45.4,35.4,36,True,Low trust score — review required
+M00074,S0019,G0018,UA,Ukraine,Kharkiv,Europe,True,True,2024-07-05,3,2024,39.4,46.4,36.1,43.6,31.7,30,True,Low trust score — review required
+M00075,S0019,G0017,UA,Ukraine,Kyiv,Europe,True,True,2024-07-05,3,2024,39.6,45.0,34.0,44.0,35.3,25,True,Low trust score — review required
+M00076,S0019,G0019,UA,Ukraine,Lviv,Europe,True,True,2024-07-05,3,2024,42.4,49.7,37.0,47.2,35.8,27,True,Low trust score — review required
+M00077,S0020,G0017,UA,Ukraine,Kyiv,Europe,True,True,2024-10-18,4,2024,39.5,45.6,34.6,44.6,33.1,40,True,Low trust score — review required
+M00078,S0020,G0018,UA,Ukraine,Kharkiv,Europe,True,True,2024-10-18,4,2024,39.8,41.9,36.9,46.3,34.3,45,True,Low trust score — review required
+M00079,S0020,G0019,UA,Ukraine,Lviv,Europe,True,True,2024-10-18,4,2024,39.6,44.9,31.6,45.5,36.4,57,True,Low trust score — review required
+M00080,S0020,G0020,UA,Ukraine,Odessa,Europe,True,True,2024-10-18,4,2024,40.7,44.6,34.3,47.7,36.1,51,True,Low trust score — review required
+M00081,S0021,G0023,BD,Bangladesh,Sylhet,Asia-Pacific,True,False,2024-01-03,1,2024,61.3,60.8,62.7,61.8,59.8,34,False,
+M00082,S0021,G0024,BD,Bangladesh,Cox's Bazar,Asia-Pacific,True,False,2024-01-03,1,2024,61.0,59.8,59.3,62.1,62.6,35,False,
+M00083,S0021,G0022,BD,Bangladesh,Chittagong,Asia-Pacific,True,False,2024-01-03,1,2024,60.3,60.8,61.3,59.6,59.6,34,False,
+M00084,S0021,G0021,BD,Bangladesh,Dhaka,Asia-Pacific,True,False,2024-01-03,1,2024,61.3,60.6,61.7,61.9,61.0,44,False,
+M00085,S0022,G0021,BD,Bangladesh,Dhaka,Asia-Pacific,True,False,2024-04-12,2,2024,62.3,61.7,61.3,64.0,62.4,37,False,
+M00086,S0022,G0024,BD,Bangladesh,Cox's Bazar,Asia-Pacific,True,False,2024-04-12,2,2024,62.9,60.7,62.6,66.9,61.3,45,False,
+M00087,S0022,G0023,BD,Bangladesh,Sylhet,Asia-Pacific,True,False,2024-04-12,2,2024,62.8,58.6,63.3,63.9,65.3,30,False,
+M00088,S0022,G0022,BD,Bangladesh,Chittagong,Asia-Pacific,True,False,2024-04-12,2,2024,62.2,60.7,62.4,62.8,63.0,39,False,
+M00089,S0023,G0021,BD,Bangladesh,Dhaka,Asia-Pacific,True,False,2024-07-19,3,2024,61.7,61.7,63.0,60.3,61.7,54,False,
+M00090,S0023,G0023,BD,Bangladesh,Sylhet,Asia-Pacific,True,False,2024-07-19,3,2024,62.0,60.8,63.7,61.6,61.8,48,False,
+M00091,S0023,G0024,BD,Bangladesh,Cox's Bazar,Asia-Pacific,True,False,2024-07-19,3,2024,62.8,63.3,64.7,60.5,62.7,42,False,
+M00092,S0023,G0022,BD,Bangladesh,Chittagong,Asia-Pacific,True,False,2024-07-19,3,2024,62.6,64.2,60.4,60.4,65.2,41,False,
+M00093,S0024,G0024,BD,Bangladesh,Cox's Bazar,Asia-Pacific,True,False,2024-10-08,4,2024,64.9,61.9,64.4,67.5,65.6,30,False,
+M00094,S0024,G0021,BD,Bangladesh,Dhaka,Asia-Pacific,True,False,2024-10-08,4,2024,62.9,63.5,64.7,62.0,61.5,34,False,
+M00095,S0024,G0022,BD,Bangladesh,Chittagong,Asia-Pacific,True,False,2024-10-08,4,2024,63.9,65.5,66.4,60.9,62.9,29,False,
+M00096,S0024,G0023,BD,Bangladesh,Sylhet,Asia-Pacific,True,False,2024-10-08,4,2024,62.4,64.7,60.9,60.6,63.5,26,False,
+M00097,S0025,G0026,ET,Ethiopia,Dire Dawa,Africa,True,True,2024-01-22,1,2024,40.1,44.4,37.8,43.2,34.8,39,True,Low trust score — review required
+M00098,S0025,G0025,ET,Ethiopia,Addis Ababa,Africa,True,True,2024-01-22,1,2024,40.4,44.1,35.6,46.4,35.4,44,True,Low trust score — review required
+M00099,S0025,G0027,ET,Ethiopia,Tigray,Africa,True,True,2024-01-22,1,2024,39.9,41.7,35.4,46.5,35.9,36,True,Low trust score — review required
+M00100,S0025,G0028,ET,Ethiopia,Amhara,Africa,True,True,2024-01-22,1,2024,41.4,48.2,37.3,45.5,34.6,46,True,Low trust score — review required
+M00101,S0026,G0027,ET,Ethiopia,Tigray,Africa,True,True,2024-04-19,2,2024,42.3,48.5,36.5,47.0,37.0,39,True,Low trust score — review required
+M00102,S0026,G0026,ET,Ethiopia,Dire Dawa,Africa,True,True,2024-04-19,2,2024,39.5,47.0,32.8,44.3,33.7,48,True,Low trust score — review required
+M00103,S0026,G0028,ET,Ethiopia,Amhara,Africa,True,True,2024-04-19,2,2024,40.7,46.6,36.4,43.8,36.2,44,True,Low trust score — review required
+M00104,S0026,G0025,ET,Ethiopia,Addis Ababa,Africa,True,True,2024-04-19,2,2024,39.1,44.8,32.2,46.4,32.8,51,True,Low trust score — review required
+M00105,S0027,G0026,ET,Ethiopia,Dire Dawa,Africa,True,True,2024-07-22,3,2024,40.0,44.9,34.9,47.8,32.4,26,True,Low trust score — review required
+M00106,S0027,G0025,ET,Ethiopia,Addis Ababa,Africa,True,True,2024-07-22,3,2024,41.8,48.5,39.0,45.5,34.1,22,True,Low trust score — review required
+M00107,S0027,G0027,ET,Ethiopia,Tigray,Africa,True,True,2024-07-22,3,2024,40.3,45.1,37.8,46.5,31.6,24,True,Low trust score — review required
+M00108,S0027,G0028,ET,Ethiopia,Amhara,Africa,True,True,2024-07-22,3,2024,38.1,44.1,30.4,44.1,33.8,17,True,Low trust score — review required
+M00109,S0028,G0026,ET,Ethiopia,Dire Dawa,Africa,True,True,2024-10-11,4,2024,37.4,41.7,30.3,44.3,33.3,22,True,Low trust score — review required
+M00110,S0028,G0025,ET,Ethiopia,Addis Ababa,Africa,True,True,2024-10-11,4,2024,38.6,45.1,31.4,43.1,34.8,17,True,Low trust score — review required
+M00111,S0028,G0028,ET,Ethiopia,Amhara,Africa,True,True,2024-10-11,4,2024,40.5,46.5,40.4,44.2,31.1,26,True,Low trust score — review required
+M00112,S0028,G0027,ET,Ethiopia,Tigray,Africa,True,True,2024-10-11,4,2024,39.2,43.6,34.1,43.6,35.6,22,True,Low trust score — review required
+M00113,S0029,G0029,MX,Mexico,Mexico City,Americas,False,False,2024-01-30,1,2024,60.5,59.9,57.0,62.4,62.6,31,False,
+M00114,S0029,G0030,MX,Mexico,Guadalajara,Americas,False,False,2024-01-30,1,2024,61.6,62.2,60.1,61.6,62.5,28,False,
+M00115,S0029,G0032,MX,Mexico,Oaxaca,Americas,False,False,2024-01-30,1,2024,61.2,59.7,60.8,59.1,65.3,31,False,
+M00116,S0029,G0031,MX,Mexico,Monterrey,Americas,False,False,2024-01-30,1,2024,61.8,62.5,60.3,65.7,58.6,34,False,
+M00117,S0030,G0029,MX,Mexico,Mexico City,Americas,False,False,2024-04-26,2,2024,63.8,64.2,64.2,63.2,63.5,34,False,
+M00118,S0030,G0032,MX,Mexico,Oaxaca,Americas,False,False,2024-04-26,2,2024,62.8,62.5,64.3,61.8,62.5,38,False,
+M00119,S0030,G0031,MX,Mexico,Monterrey,Americas,False,False,2024-04-26,2,2024,62.4,63.3,62.1,62.9,61.3,42,False,
+M00120,S0030,G0030,MX,Mexico,Guadalajara,Americas,False,False,2024-04-26,2,2024,62.5,61.4,64.7,64.7,59.2,30,False,
+M00121,S0031,G0030,MX,Mexico,Guadalajara,Americas,False,False,2024-07-25,3,2024,63.5,63.1,60.4,66.1,64.3,28,False,
+M00122,S0031,G0032,MX,Mexico,Oaxaca,Americas,False,False,2024-07-25,3,2024,60.6,57.5,63.8,62.5,58.8,20,False,
+M00123,S0031,G0029,MX,Mexico,Mexico City,Americas,False,False,2024-07-25,3,2024,62.2,61.4,65.8,60.6,61.1,30,False,
+M00124,S0031,G0031,MX,Mexico,Monterrey,Americas,False,False,2024-07-25,3,2024,64.1,59.8,63.3,64.4,68.9,22,False,
+M00125,S0032,G0030,MX,Mexico,Guadalajara,Americas,False,False,2024-10-09,4,2024,62.7,62.2,63.1,61.9,63.6,30,False,
+M00126,S0032,G0031,MX,Mexico,Monterrey,Americas,False,False,2024-10-09,4,2024,62.3,63.8,60.1,61.6,63.8,23,False,
+M00127,S0032,G0032,MX,Mexico,Oaxaca,Americas,False,False,2024-10-09,4,2024,62.6,65.0,66.7,65.0,53.9,15,False,
+M00128,S0032,G0029,MX,Mexico,Mexico City,Americas,False,False,2024-10-09,4,2024,62.6,63.2,65.8,61.8,59.6,19,False,

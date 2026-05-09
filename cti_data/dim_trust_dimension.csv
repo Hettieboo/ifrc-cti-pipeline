@@ -1,0 +1,13 @@
+dimension_id,dimension_name,question_code,question_text,question_type,is_core_indicator
+D001,competence,Q_C1,The Red Cross/Red Crescent has the skills to help my community,likert,True
+D002,competence,Q_C2,They deliver what they promise,likert,True
+D003,competence,Q_C3,Their staff are well trained,likert,True
+D004,integrity,Q_I1,The Red Cross/Red Crescent is honest in its dealings with my community,likert,True
+D005,integrity,Q_I2,Aid is distributed fairly and without corruption,likert,True
+D006,integrity,Q_I3,They follow through on commitments,likert,True
+D007,benevolence,Q_B1,The Red Cross/Red Crescent genuinely cares about my community,likert,True
+D008,benevolence,Q_B2,They prioritise the most vulnerable people,likert,True
+D009,benevolence,Q_B3,They act in our best interests,likert,True
+D010,transparency,Q_T1,The Red Cross/Red Crescent communicates clearly about what help is available,likert,True
+D011,transparency,Q_T2,They explain how decisions are made,likert,True
+D012,transparency,Q_T3,We can easily ask questions and get answers,likert,True

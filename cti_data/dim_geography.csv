@@ -1,0 +1,33 @@
+geo_id,country_code,country_name,region,district,ifrc_zone,emergency_context,conflict_affected
+G0001,KE,Kenya,Nairobi,Nairobi District,Africa,False,False
+G0002,KE,Kenya,Mombasa,Mombasa District,Africa,False,False
+G0003,KE,Kenya,Kisumu,Kisumu District,Africa,False,False
+G0004,KE,Kenya,Nakuru,Nakuru District,Africa,False,False
+G0005,NG,Nigeria,Lagos,Lagos District,Africa,True,True
+G0006,NG,Nigeria,Kano,Kano District,Africa,True,True
+G0007,NG,Nigeria,Abuja,Abuja District,Africa,True,True
+G0008,NG,Nigeria,Kaduna,Kaduna District,Africa,True,True
+G0009,PH,Philippines,Metro Manila,Metro Manila District,Asia-Pacific,True,False
+G0010,PH,Philippines,Cebu,Cebu District,Asia-Pacific,True,False
+G0011,PH,Philippines,Davao,Davao District,Asia-Pacific,True,False
+G0012,PH,Philippines,Mindanao,Mindanao District,Asia-Pacific,True,False
+G0013,CO,Colombia,Bogota,Bogota District,Americas,False,True
+G0014,CO,Colombia,Medellin,Medellin District,Americas,False,True
+G0015,CO,Colombia,Cali,Cali District,Americas,False,True
+G0016,CO,Colombia,Cartagena,Cartagena District,Americas,False,True
+G0017,UA,Ukraine,Kyiv,Kyiv District,Europe,True,True
+G0018,UA,Ukraine,Kharkiv,Kharkiv District,Europe,True,True
+G0019,UA,Ukraine,Lviv,Lviv District,Europe,True,True
+G0020,UA,Ukraine,Odessa,Odessa District,Europe,True,True
+G0021,BD,Bangladesh,Dhaka,Dhaka District,Asia-Pacific,True,False
+G0022,BD,Bangladesh,Chittagong,Chittagong District,Asia-Pacific,True,False
+G0023,BD,Bangladesh,Sylhet,Sylhet District,Asia-Pacific,True,False
+G0024,BD,Bangladesh,Cox's Bazar,Cox's Bazar District,Asia-Pacific,True,False
+G0025,ET,Ethiopia,Addis Ababa,Addis Ababa District,Africa,True,True
+G0026,ET,Ethiopia,Dire Dawa,Dire Dawa District,Africa,True,True
+G0027,ET,Ethiopia,Tigray,Tigray District,Africa,True,True
+G0028,ET,Ethiopia,Amhara,Amhara District,Africa,True,True
+G0029,MX,Mexico,Mexico City,Mexico City District,Americas,False,False
+G0030,MX,Mexico,Guadalajara,Guadalajara District,Americas,False,False
+G0031,MX,Mexico,Monterrey,Monterrey District,Americas,False,False
+G0032,MX,Mexico,Oaxaca,Oaxaca District,Americas,False,False

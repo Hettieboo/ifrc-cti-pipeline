@@ -1,0 +1,33 @@
+survey_id,survey_name,survey_type,phase,start_date,end_date,country_code,national_society,target_population,quarter,year
+S0001,CTI Kenya Q1 2024,mixed,data_collection,2024-01-21,2024-02-07,KE,Kenya Red Cross,Host community,1,2024
+S0002,CTI Kenya Q2 2024,mixed,data_collection,2024-04-23,2024-05-15,KE,Kenya Red Cross,Displaced,2,2024
+S0003,CTI Kenya Q3 2024,mixed,data_collection,2024-07-06,2024-07-24,KE,Kenya Red Cross,Host community,3,2024
+S0004,CTI Kenya Q4 2024,mixed,data_collection,2024-10-18,2024-11-03,KE,Kenya Red Cross,Not affected,4,2024
+S0005,CTI Nigeria Q1 2024,mixed,data_collection,2024-01-14,2024-01-29,NG,Nigeria Red Cross,Host community,1,2024
+S0006,CTI Nigeria Q2 2024,mixed,data_collection,2024-04-02,2024-04-22,NG,Nigeria Red Cross,Displaced,2,2024
+S0007,CTI Nigeria Q3 2024,mixed,data_collection,2024-07-15,2024-07-29,NG,Nigeria Red Cross,Not affected,3,2024
+S0008,CTI Nigeria Q4 2024,mixed,data_collection,2024-10-03,2024-10-30,NG,Nigeria Red Cross,Displaced,4,2024
+S0009,CTI Philippines Q1 2024,mixed,data_collection,2024-01-15,2024-02-06,PH,Philippines Red Cross,Host community,1,2024
+S0010,CTI Philippines Q2 2024,mixed,data_collection,2024-04-24,2024-05-13,PH,Philippines Red Cross,Returnee,2,2024
+S0011,CTI Philippines Q3 2024,mixed,data_collection,2024-07-09,2024-07-31,PH,Philippines Red Cross,Displaced,3,2024
+S0012,CTI Philippines Q4 2024,mixed,data_collection,2024-10-03,2024-10-27,PH,Philippines Red Cross,Host community,4,2024
+S0013,CTI Colombia Q1 2024,mixed,data_collection,2024-01-03,2024-01-29,CO,Colombia Red Cross,Host community,1,2024
+S0014,CTI Colombia Q2 2024,mixed,data_collection,2024-04-11,2024-05-06,CO,Colombia Red Cross,Not affected,2,2024
+S0015,CTI Colombia Q3 2024,mixed,data_collection,2024-07-07,2024-07-22,CO,Colombia Red Cross,Returnee,3,2024
+S0016,CTI Colombia Q4 2024,mixed,data_collection,2024-10-14,2024-10-31,CO,Colombia Red Cross,Returnee,4,2024
+S0017,CTI Ukraine Q1 2024,mixed,data_collection,2024-01-03,2024-01-26,UA,Ukraine Red Cross,Not affected,1,2024
+S0018,CTI Ukraine Q2 2024,mixed,data_collection,2024-04-28,2024-05-23,UA,Ukraine Red Cross,Not affected,2,2024
+S0019,CTI Ukraine Q3 2024,mixed,data_collection,2024-07-05,2024-07-21,UA,Ukraine Red Cross,Host community,3,2024
+S0020,CTI Ukraine Q4 2024,mixed,data_collection,2024-10-18,2024-11-08,UA,Ukraine Red Cross,Refugee,4,2024
+S0021,CTI Bangladesh Q1 2024,mixed,data_collection,2024-01-03,2024-01-24,BD,Bangladesh Red Cross,Host community,1,2024
+S0022,CTI Bangladesh Q2 2024,mixed,data_collection,2024-04-12,2024-05-04,BD,Bangladesh Red Cross,Returnee,2,2024
+S0023,CTI Bangladesh Q3 2024,mixed,data_collection,2024-07-19,2024-08-13,BD,Bangladesh Red Cross,Displaced,3,2024
+S0024,CTI Bangladesh Q4 2024,mixed,data_collection,2024-10-08,2024-11-02,BD,Bangladesh Red Cross,Displaced,4,2024
+S0025,CTI Ethiopia Q1 2024,mixed,data_collection,2024-01-22,2024-02-13,ET,Ethiopia Red Cross,Host community,1,2024
+S0026,CTI Ethiopia Q2 2024,mixed,data_collection,2024-04-19,2024-05-08,ET,Ethiopia Red Cross,Not affected,2,2024
+S0027,CTI Ethiopia Q3 2024,mixed,data_collection,2024-07-22,2024-08-12,ET,Ethiopia Red Cross,Displaced,3,2024
+S0028,CTI Ethiopia Q4 2024,mixed,data_collection,2024-10-11,2024-11-06,ET,Ethiopia Red Cross,Refugee,4,2024
+S0029,CTI Mexico Q1 2024,mixed,data_collection,2024-01-30,2024-02-20,MX,Mexico Red Cross,Refugee,1,2024
+S0030,CTI Mexico Q2 2024,mixed,data_collection,2024-04-26,2024-05-11,MX,Mexico Red Cross,Displaced,2,2024
+S0031,CTI Mexico Q3 2024,mixed,data_collection,2024-07-25,2024-08-09,MX,Mexico Red Cross,Refugee,3,2024
+S0032,CTI Mexico Q4 2024,mixed,data_collection,2024-10-09,2024-10-31,MX,Mexico Red Cross,Host community,4,2024
