@@ -48,7 +48,7 @@ st.markdown("""
 # --- LOAD DATA ---
 @st.cache_data
 def load_data():
-    base = "/home/claude/cti_data"
+    base = "cti_data"
     mart = pd.read_csv(f"{base}/mart_trust_index_gold.csv")
     qual = pd.read_csv(f"{base}/qualitative_responses_bronze.csv")
     surveys = pd.read_csv(f"{base}/dim_survey.csv")
